@@ -1,0 +1,19 @@
+html {
+	/* SPACING */
+	--spacing-xs: 4px;
+	--spacing-s: 8px;
+	--spacing-m: 16px;
+	--spacing-l: 24px;
+	--spacing-xl: 32px;
+
+	/* COLORS */
+
+	/* Orange */
+	--orange-main: hsl(16, 93%, 58%);
+	--orange-light: hsl(16, 93%, 70%);
+	--orange-dark: hsl(16, 93%, 35%);
+
+	/* White */
+	--white-main: hsl(69, 37%, 96%);
+	--white-dark: hsl(70, 17%, 71%);
+}
