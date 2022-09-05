@@ -16,4 +16,9 @@ html {
 	/* White */
 	--white-main: hsl(69, 37%, 96%);
 	--white-dark: hsl(70, 17%, 71%);
+
+	/* Blue */
+	--blue-main: hsl(198, 52%, 37%);
+	--blue-light: hsl(198, 52%, 60%);
+	--blue-dark: hsl(198, 52%, 18%);
 }
